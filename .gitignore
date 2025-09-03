@@ -1,0 +1,68 @@
+# Visual Studio temporary files, build results, and user-specific files
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# MonoDevelop
+*.userprefs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+TestResults/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Visual Studio workspace folders
+.vs/
+
+# NuGet packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Backup & temporary files
+*.bak
+*.tmp
+*.swp
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Files built by Visual Studio
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.ipdb
+*.log
+*.tlog
+*.lastbuildstate
+
+# Web specific files
+*.publish.xml
+
+# Others
+*.dbmdl
+*.psess
+*.vsp
+*.vspscc
